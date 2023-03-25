@@ -2,9 +2,9 @@
 
 Alacritty config file
 
-- [X]Rose pine theme
+-[X] Rose pine theme
 
-- [X]FiraCode Nerd font for symbols
+-[X]FiraCode Nerd font for symbols
 
-- [X]supports pwsh
+-[X] supports pwsh
 
