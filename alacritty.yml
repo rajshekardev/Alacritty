@@ -1,0 +1,25 @@
+### Theming with ymls
+#import:
+#  - /path/to/alacritty.yml
+
+window:
+  opacity: 0.95
+  title: Alacritty
+
+font:
+  normal:
+    family: FiraCode NF
+
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+
+## Beam | Underline _ Block ▇
+#blinking: Off
+
+shell:
+  program: pwsh
+
+working_directory: C:\Users\lol\
+
